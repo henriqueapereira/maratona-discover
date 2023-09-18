@@ -1,6 +1,6 @@
 # Maratona Discover
 
-![preview](./.github/preview.png)
+![preview](./.github/devfinance.png)
 
 Projeto de um site web resposivo para controle financeiro. Construido durante a maratona Discover da Rocketseat.
 
